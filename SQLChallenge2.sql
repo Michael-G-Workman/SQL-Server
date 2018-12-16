@@ -10,6 +10,8 @@ after creating the table, the challenge is to create TSQL which will answer the 
 totals for store, with a column for each store, then a second record set with a 
 total item sold by store column for each store.
 
+This example is freely distributable under terms of MIT open source license
+
 =========================================================================================================
 */
 
