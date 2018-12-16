@@ -6,9 +6,9 @@ SQL Challenge #1
 By Michael G. Workman
 
 Before doing this challenge, run the script AUTHORS_Create.sql to create the authors database,
-after creating the table, the challenge is to create TSQL which will answer the order amount
+after creating the database, the challenge is to create TSQL which will answer the order amount
 totals for each period along with a running total of all orders up to and including that current
-period and all periods before, without using a looping cursor, and also including periods with 0.00
+period and all periods before, without using a looping TSQL cursor, and also including periods with 0.00
 in sales
 
 This example is freely distributable under terms of MIT open source license
