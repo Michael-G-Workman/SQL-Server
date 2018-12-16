@@ -11,6 +11,8 @@ totals for each period along with a running total of all orders up to and includ
 period and all periods before, without using a looping cursor, and also including periods with 0.00
 in sales
 
+This example is freely distributable under terms of MIT open source license
+
 =========================================================================================================
 */
 
