@@ -7,7 +7,7 @@ By Michael G. Workman
 
 This script will create the Authors database to be used for the SQL Challenges including in this
 github for Abion Technoloy, also, this script is used to create the database for the
-Authors ASP.NET MVC 5 Web Application with database first Entity Framework.
+Authors ASP.NET MVC 5 Web Application with database first Entity Framework ORM.
 
 This example is freely distributable under terms of MIT open source license
 
