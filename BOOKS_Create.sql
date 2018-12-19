@@ -161,7 +161,7 @@ CREATE TABLE [dbo].[Sales] (
 	[stor_id] [char] (4) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL ,
 	[ord_num] [varchar] (20) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL ,
 	[ord_date] [datetime] NOT NULL ,
-	[qty] [smallint] NOT NULL,
+	[qty] [int] NOT NULL,
 	CONSTRAINT [PK_sales] PRIMARY KEY ([ID])
 )
 
