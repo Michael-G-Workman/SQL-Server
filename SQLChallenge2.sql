@@ -5,7 +5,7 @@ SQL Challenge #2
 
 By Michael G. Workman
 
-Before doing this challenge, run the script AUTHORS_Create.sql to create the authors database,
+Before doing this challenge, run the script BOOKS_Create.sql to create the authors database,
 after creating the table, the challenge is to create TSQL which will answer the order amount
 totals for store, with a column for each store, then a second record set with a 
 total item sold by store column for each store.
