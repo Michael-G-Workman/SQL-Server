@@ -100,7 +100,7 @@ CREATE TABLE [dbo].[TitleAuthor] (
 	[ID] uniqueidentifier NOT NULL,
 	[au_id] VARCHAR(25) NOT NULL ,
 	[title_id] VARCHAR(25) NOT NULL ,
-	[au_ord] [tinyint] NULL ,
+	[au_ord] [int] NULL ,
 	[royaltyper] [int] NULL,
 	CONSTRAINT [PK_titleauthor] PRIMARY KEY ([ID])
 )
