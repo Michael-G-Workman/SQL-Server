@@ -9,6 +9,10 @@ This script will create the Authors database to be used for the SQL Challenges i
 github for Abion Technoloy, also, this script is used to create the database for the
 Books ASP.NET MVC 5 Web Application with database first Entity Framework ORM.
 
+AZURE NOTE: Normally a sql server database cannot be created with a SQL script in Azure, in the case of
+using this script with an Azure DB, remove the create database statement. Azure SQL Server databases
+can only be created in the online Portal.
+
 This example is freely distributable under terms of MIT open source license
 
 =========================================================================================================
