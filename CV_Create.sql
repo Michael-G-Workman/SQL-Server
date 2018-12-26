@@ -8,6 +8,10 @@ By Michael G. Workman
 This script will create the CV database to be used with the CV mvc web application
 for Abion Technology, CV meaning Curriculum Vitae
 
+AZURE NOTE: Normally a sql server database cannot be created with a SQL script in Azure, in the case of
+using this script with an Azure DB, remove the create database statement. Azure SQL Server databases
+can only be created in the online Portal.
+
 This example is freely distributable under terms of MIT open source license
 
 =========================================================================================================
