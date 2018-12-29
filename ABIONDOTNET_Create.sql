@@ -38,6 +38,7 @@ CREATE TABLE [dbo].[EmailContacts] (
 	[ID] uniqueidentifier NOT NULL,
 	[ContactName] NVARCHAR(150) NOT NULL,
 	[ContactEmail] NVARCHAR(100) NOT NULL,
+	[ContactPhone] NVARCHAR(20) NOT NULL,
 	[ContactCategories_ID] uniqueidentifier NOT NULL,
 	[WebMessage] NVARCHAR(MAX) NOT NULL,
 	[EmailDate] DATETIME NOT NULL,
