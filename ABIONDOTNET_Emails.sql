@@ -14,6 +14,7 @@ This example is freely distributable under terms of MIT open source license
 SELECT ec.[ID]
       ,ec.[ContactName]
       ,ec.[ContactEmail]
+      ,ec.[ContactPhone]
       ,cc.[Category]
       ,ec.[WebMessage]
       ,ec.[EmailDate]
