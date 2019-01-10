@@ -2,6 +2,6 @@ Example software for Microsoft SQL Server, for use in SQL Challenges, ASP.NET MV
 
 by Michael G. Workman, President and Software Architect, ABION Technology
 
-(c) Copyright 2018 Abion Technology http://www.abion.net
+(c) Copyright 2018 Michael G. Workman http://www.michaelgworkman.com
 
 Freely distributable under terms of MIT open source license
