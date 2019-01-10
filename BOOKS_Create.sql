@@ -6,7 +6,7 @@ BOOKS Create
 By Michael G. Workman
 
 This script will create the Authors database to be used for the SQL Challenges including in this
-github for Abion Technoloy, also, this script is used to create the database for the
+github, also, this script is used to create the database for the
 Books ASP.NET MVC 5 Web Application with database first Entity Framework ORM.
 
 AZURE NOTE: Normally a sql server database cannot be created with a SQL script in Azure, in the case of
