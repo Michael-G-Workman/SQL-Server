@@ -2,6 +2,6 @@ Example software for Microsoft SQL Server, for use in SQL Challenges, ASP.NET MV
 
 by Michael G. Workman
 
-(c) Copyright 2018 Michael G. Workman http://www.michaelgworkman.com
+(c) Copyright 2018 Michael G. Workman  http://www.michaelgworkman.com
 
 Freely distributable under terms of MIT open source license
