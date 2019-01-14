@@ -8,10 +8,6 @@ By Michael G. Workman
 This script will create the Blogging database to be used for the Blogging ASP.NET Core 2.2 MVC Web Application
 included in this github, which will use database first Entity Framework ORM.
 
-AZURE NOTE: Normally a sql server database cannot be created with a SQL script in Azure, in the case of
-using this script with an Azure DB, remove the create database statement. Azure SQL Server databases
-can only be created in the online Portal.
-
 This example is freely distributable under terms of MIT open source license
 
 =========================================================================================================
