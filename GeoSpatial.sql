@@ -13,7 +13,7 @@
 -- Freely distributable under terms of MIT open source license
 --=============================================================
  
-USE [FoodPantryDB]
+USE [GeospatialDB]
 GO
 
 -- check to see if table exist, 
